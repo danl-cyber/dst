@@ -1,5 +1,6 @@
 ---
 title: Data Science Toolbox
+layout: default
 ---
 # Data Science Toolbox @ Bristol
 
